@@ -1,0 +1,13 @@
+application,ordering,app_url,collected_at_utc,source_filename
+Facebook,Relevant,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en_US,2026-08-23T00:03:54+00:00,facebook_google_play_reviews.xlsx
+Instagram,Relevant,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en_US,2026-08-15T16:11:46+00:00,instagram_google_play_reviews.xlsx
+Snapchat,Relevant,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en_US,2026-08-20T23:22:56+00:00,snapchat_google_play_reviews.xlsx
+TikTok,Relevant,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en_US&gl=US,2026-08-08T22:46:08+00:00,tiktok_google_play_reviews.xlsx
+X,Relevant,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en_US,2026-08-17T00:10:33+00:00,x_google_play_reviews.xlsx
+YouTube,Relevant,https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en_US,2026-08-16T16:42:06+00:00,youtube_google_play_reviews.xlsx
+Facebook,Newest,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en_US,2026-08-23T18:43:10+00:00,Newest_facebook_google_play_reviews.xlsx
+Instagram,Newest,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en_US,2026-08-27T03:33:05+00:00,Newest_instagram_google_play_reviews.xlsx
+Snapchat,Newest,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en_US,2026-08-23T23:16:11+00:00,Newest_snapchat_google_play_reviews.xlsx
+TikTok,Newest,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en_US,2026-08-23T20:54:46+00:00,Newest_tiktok_google_play_reviews.xlsx
+X,Newest,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en_US,2026-08-24T04:46:10+00:00,Newest_x_google_play_reviews.xlsx
+YouTube,Newest,https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en_US,2026-08-24T04:18:10+00:00,Newest_youtube_google_play_reviews.xlsx

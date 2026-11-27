@@ -1,0 +1,2 @@
+platforms,relevant_unique_ids,newest_unique_ids,shared_review_ids,overlap_percent_of_relevant,overlap_percent_of_newest,jaccard_percent
+6,10200,10200,60,0.5882352941176471,0.5882352941176471,0.2949852507374631

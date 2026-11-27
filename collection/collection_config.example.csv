@@ -1,0 +1,13 @@
+application,ordering,app_url,expected_input_folder_for_analysis
+Facebook,Relevant,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en_US,relevant_reviews
+Facebook,Newest,https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en_US,newest_reviews
+Instagram,Relevant,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en_US,relevant_reviews
+Instagram,Newest,https://play.google.com/store/apps/details?id=com.instagram.android&hl=en_US,newest_reviews
+Snapchat,Relevant,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en_US,relevant_reviews
+Snapchat,Newest,https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en_US,newest_reviews
+TikTok,Relevant,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en_US,relevant_reviews
+TikTok,Newest,https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=en_US,newest_reviews
+X,Relevant,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en_US,relevant_reviews
+X,Newest,https://play.google.com/store/apps/details?id=com.twitter.android&hl=en_US,newest_reviews
+YouTube,Relevant,https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en_US,relevant_reviews
+YouTube,Newest,https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=en_US,newest_reviews
